@@ -8,7 +8,7 @@ Pattern recognition based on RGB-Event data is a newly arising research topic an
 
 
 ## A CNN-Former Framework for RGB-Event based Recognition 
-<img src="[https://github.com/Event-AHU/TSCFormer/figures/MM_CNNFormer_v1.jpg](https://github.com/Event-AHU/TSCFormer/blob/main/figures/MM_CNNFormer_v1.jpg)" width="800">  
+<img src="(https://github.com/Event-AHU/TSCFormer/blob/main/figures/MM_CNNFormer_v1.jpg)" width="800">  
 
 
 ## Environment Setting 
