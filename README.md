@@ -44,6 +44,7 @@ python tools/test.py configs/recognition/tscformer/tscformer.py work_dirs/tscfor
 
 
 ## Experimental Results and Visualization
+
 <div align="center">
 <img src="https://github.com/Event-AHU/TSCFormer/blob/main/figures/featVIS_p2.jpg" width="800">  
 </div>
