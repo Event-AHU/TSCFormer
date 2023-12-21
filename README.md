@@ -38,10 +38,7 @@ TSCFormer:
 python tools/train.py configs/recognition/tscformer/tscformer.py --seed 0 --deterministic --work-dir work_dirs/tscformer_train
 
 python tools/test.py configs/recognition/tscformer/tscformer.py work_dirs/tscformer/best_acc_top1_epoch_xx.pth --work-dir work_dirs/tscformer_test
-
-## Experimental Results and Visualization 
-<img src="https://github.com/Event-AHU/TSCFormer/figures/featVIS_p2.jpg" width="800">
-
+```
 
 ## Experimental Results and Visualization
 
