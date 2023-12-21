@@ -1,9 +1,9 @@
 # TSCFormer
 **Unleashing the Power of CNN and Transformer for Balanced RGB-Event Video Recognition**, Xiao Wang, Yao Rong, Shiao Wang, Yuan Chen, Zhe Wu, Bo Jiang*, Yonghong Tian, Jin Tang, 
-[[arXiv]()] 
+[[arXiv](https://arxiv.org/abs/2312.11128)] 
 
 <div align="center">
-<img src="https://github.com/Event-AHU/TSCFormer/blob/main/figures/firstimage.jpg" width="800">
+<img src="https://github.com/Event-AHU/TSCFormer/blob/main/figures/firstimage.jpg" width="600">
 </div>
 
 
@@ -48,5 +48,20 @@ python tools/test.py configs/recognition/tscformer/tscformer.py work_dirs/tscfor
 
 ## Acknowledgement 
 Our code is implemented based on <a href="https://github.com/open-mmlab/mmaction2">MMAction2</a>.
+
+
+## Citation 
+
+If you find this work helps your research, please cite the following paper and give us a star. 
+```bibtex
+@article{wang2023TSCFormer,
+  title={Unleashing the Power of CNN and Transformer for Balanced RGB-Event Video Recognition},
+  author={Wang, Xiao and Rong, Yao and Wang, Shiao and Chen, Yuan and Wu, Zhe and Jiang, Bo and Tian, Yonghong and Tang, Jin},
+  journal={arXiv preprint arXiv:2312.11128},
+  year={2023}
+}
+```
+
+Please leave an **issue** if you have any questions about this work. 
 
 
