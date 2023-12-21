@@ -1377,7 +1377,7 @@ class RawFrameDecode(BaseTransform):
         imgs = list()
         imgs_event = list()
 
-        ##################################### roya
+        #####################################
         #HARDVS
         # results['frame_inds'] = (results['frame_inds']-1)*5
         
@@ -1439,8 +1439,6 @@ class RawFrameDecode(BaseTransform):
         ############################
         
         results['imgs'] = list_img
-        
-       
         
         results['imgs_event'] = imgs_event
         results['original_shape'] = imgs[0].shape[:2]
