@@ -43,7 +43,10 @@ python tools/test.py configs/recognition/tscformer/tscformer.py work_dirs/tscfor
 <img src="https://github.com/Event-AHU/TSCFormer/figures/featVIS_p2.jpg" width="800">
 
 
-
+## Experimental Results and Visualization
+<div align="center">
+<img src="https://github.com/Event-AHU/TSCFormer/blob/main/figures/featVIS_p2.jpg" width="800">  
+</div>
 
 ## Acknowledgement 
 Our code is implemented based on <a href="https://github.com/open-mmlab/mmaction2">MMAction2</a>.
