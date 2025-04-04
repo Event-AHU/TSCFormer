@@ -2,6 +2,12 @@
 **Unleashing the Power of CNN and Transformer for Balanced RGB-Event Video Recognition**, Xiao Wang, Yao Rong, Shiao Wang, Yuan Chen, Zhe Wu, Bo Jiang*, Yonghong Tian, Jin Tang, 
 [[arXiv](https://arxiv.org/abs/2312.11128)] 
 
+
+
+## News 
+* This paper is accepted by Journal **MIR (Machine Intelligence Research)** 2025 
+
+
 <div align="center">
 <img src="https://github.com/Event-AHU/TSCFormer/blob/main/figures/firstimage.jpg" width="600">
 </div>
